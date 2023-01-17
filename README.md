@@ -1,1 +1,1 @@
-# yandex-practicum-projects
+# yandex-practicum-data-analyst-projects
