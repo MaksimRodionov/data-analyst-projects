@@ -1,4 +1,10 @@
-**Некоторые выполненные проекты из курса Яндекс.Практикума "Аналитик данных"**
+[Диплом о профессиональной переподготовке по программе "Аналитик Данных".](https://github.com/MaksimRodionov/data-analyst-projects/blob/main/data_analyst_yandex_practicum_certificate.pdf)
+
+[Сертификат о прохождении курса "Data Science с Глебом Михайловым".](https://github.com/MaksimRodionov/data-analyst-projects/blob/main/data_science_with_gleb_stepik_certificate.pdf)
+
+
+
+**Некоторые выполненные проекты из курса Яндекс.Практикума "Аналитик данных":**
 
 | Название проекта | Задачи проекта | Навыки и инструменты |
 | :--------------------: | :---------------------: |:---------------------------:|
